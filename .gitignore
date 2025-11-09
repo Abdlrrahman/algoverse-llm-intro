@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+*.checkpoint.ipynb
+
+# Data / cache
+data/*
+!data/README.md
+.huggingface/
+.cache/
